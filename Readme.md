@@ -82,7 +82,7 @@ The dataset contains transactional sales records with the following fields:
 📷 Dashboard Preview
 
 <p align="center">
-  <img src="img_here" width="1000"/>
+  <img src="https://github.com/sanskrutidhole19-lgtm/SALES-PERFORMANCE-DASHBOARD-USING-EXCEL/blob/main/SALES%20PERFORMANCE%20DASHBOARD%20%E2%80%93%20IMAGE/IMAGE.png?raw=true" width="1000"/>
 </p>
 
 
